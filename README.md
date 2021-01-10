@@ -2,7 +2,7 @@
 
 - I create a facebook app on developer.facebook.com.
 - Go to 'Tools' and select the 'GRAPH API EXPLORER'.
-- And select the Application(YogaMedia).
+- And select the Application(PinkWorld).
 - And goto the 'User or Page' and select the 'Get Page Access Token'
 - Add the permission
  - pages_manage_posts
